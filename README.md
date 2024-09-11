@@ -4,6 +4,13 @@
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?logo=telegram&logoColor=white)](https://t.me/Triplem2000)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m.m.molaei2000) 
 
+- 🔭 I’m currently working on **NCT**
+
+- 🌱 I’m currently learning **Figma, Nuxt, Node**
+
+- 💬 Ask me about **Vue, Nuxt**
+
+- 📫 How to reach me **mahdi.molaei2000@gmail.com**
 ## Tech stack:
 <div align="center">
   <a href="https://github.com/dinno7">
