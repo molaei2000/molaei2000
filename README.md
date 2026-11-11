@@ -4,7 +4,7 @@
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4.svg?logo=telegram&logoColor=white)](https://t.me/Triplem2000)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/m.m.molaei2000) 
 
-- 🔭 I’m currently working on [**NCT**](https://nctevo.com/)
+- 🔭 I’m currently searching fo job.
 
 - 🌱 I’m currently learning **Back End**
 
